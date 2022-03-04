@@ -45,5 +45,3 @@ Udemy 💜 C# - Professor Nelio Alves || Java - Cod3r Cursos
 
 
  Mande um ♥ [Email](mailto:elifelipe@hotmail.com) .
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=elifelipe/elifelipe)
